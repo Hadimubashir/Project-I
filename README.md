@@ -47,9 +47,6 @@ This project demonstrates the deployment of an Amazon Prime clone using modern D
 
 ---
 
-## 📷 Screenshots & Architecture (Optional)
-> _You can include diagrams or screenshots here to illustrate your architecture and pipeline flow._
-![image](https://github.com/user-attachments/assets/d258e04d-9953-4a32-a994-209c69b37bf1)
 
 ---
 
